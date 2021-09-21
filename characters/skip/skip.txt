@@ -1,0 +1,55 @@
+Skip is a good-natured person who believes in right/wrong, but not the law/courts' final say on that matter. Doesn't believe in deception per se. He'll do what he thinks is the right thing and naively believes everyone else will see it the same way. He acts in good faith most of the time.
+
+Quirks: big on agriculture, tends a garden. But sucks at it.
+
+Gambler, Farmer, Circus
+
+Proficiencies -- 
+*Insight (G) WIS
+*Persuasion (G) CHA
+Perception (G) WIS
+Performance (C) CHA
+Medicine (C) WIS
+Athletics (C) STR
+Acrobatics (C) DEX
+History (C) INT
+
+Plus Thieves and Thinker Tools and Dice set and 1 language
+
+FEAT Sharpshooter
+
+Two-weapon fighting
+
+
+SPELLS
+Cantrips (3)
+ - Mage Hands [Sneak] / Minor Illusion [Sneak] / Prestidigitation [Sneak]
+ - Vicious Mockery [Disable] [WIS]
+ - Message [Sneak]
+ 
+Spells (7)
+ - D. Whispers (1) [Disable] [WIS] [Act]
+ - F. Fire (1) [Disable] [DEX] [Act]
+ - Healing Word (1) [Buff] [BAct] 
+ - Sleep (1) [Disable] [Act]
+ 
+ - Enhance Ability (2) [Buff] [Act, Con]
+ - Invisibility (2) [Sneak] [Act, Con]
+ - Knock (2) [Sneak] [Act]
+
+OTHER IDEAS
+ - Heat Metal (2) [Disable] [CON] [Act, Con]
+ - Silence (2) [Disable] [Act, Con]
+ - Charm Person (1) [Social] [WIS] [Act] or Calm Emotions (2) [Social] [CHA] [Act, Con] or Suggestion (2) [Disble] [WIS] [Act, Con]
+
+
+
+
+
+
+FUTURE
+Taking Rogue 1 grants: 
+2 more expertise, 
+prof in 1 more skill [Acro, Ath, Dec, Ins, Int, Inv, **Perc**, Perf, Pers, Sleight, Stealth] plus thieves tools, light armor (langauge?)
+sneak attack
+thieves cant
