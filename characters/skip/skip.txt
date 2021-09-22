@@ -1,20 +1,25 @@
-Skip is a good-natured person who believes in right/wrong, but not the law/courts' final say on that matter. Doesn't believe in deception per se. He'll do what he thinks is the right thing and naively believes everyone else will see it the same way. He acts in good faith most of the time.
+Skip is a good-natured person who believes in right/wrong, but not the law/courts' final say on that matter. Doesn't believe in deception per se. He'll do what he thinks is the right thing and naively believes everyone else will see it the same way. He acts in good faith most of the time. Is not about thieving or putting thumb on the scale when he can; but not upset when he catches others doing it either, views it as all part of a game. [Lupin, Jesper, Solo]
 
-Quirks: big on agriculture, tends a garden. But sucks at it.
+Quirks: 
+- big on agriculture, tends a garden. But sucks at it. (no nature or survival prof). Only thing he gets worked up about. Did learn some folk remedy (medicine) from it
+- history nerd and loves to talk about it
+
+8-16-14-10-10-16
 
 Gambler, Farmer, Circus
 
 Proficiencies -- 
 *Insight (G) WIS
-*Persuasion (G) CHA
 Perception (G) WIS
-Performance (C) CHA
-Medicine (C) WIS
+Persuasion (G) CHA
+*Performance (C) CHA
 Athletics (C) STR
 Acrobatics (C) DEX
 History (C) INT
+Medicine (F) WIS
 
-Plus Thieves and Thinker Tools and Dice set and 1 language
+
+Plus Thieves and Tinker Tools and Dice set and 1 language
 
 FEAT Sharpshooter
 
